@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>signup</title>
+
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <style>
+            button{
+                font-size: 30px;
+            }
+            table{
+                font-size: 45px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            td{
+                font-weight: bold;
+            }
+            form{
+                text-align: center;
+                font-size: 25px;
+            }
+            input[type=text]{
+                background-color:black;
+                font-size: 20px;
+                color:white;
+                border-color: white;
+
+            }
+            input[type=text]:hover{
+                border-color: blue;
+
+            }
+            
+            input[type=password]{
+                background-color: black;
+                font-size: 20px;
+                color:white;
+                border-color: white;
+            }
+            input[type=password]:hover{
+                border-color: blue;
+            }
+           
+            
+            button{
+                background-color: red;
+                color: white;
+                border-color: white;
+                height:37px;width:270px;
+                font-size: 25px;
+            }
+            button:hover{
+                background-color: rgb(87, 76, 76);
+                color:goldenrodyellow;
+
+            }
+            .create_acc{
+                background-color: red;
+                color:white;
+                
+                font-size:23px;
+                border-color: white;
+               
+            }
+            .create_acc:hover{
+                background-color: rgb(87, 76, 76);
+                color:goldenrodyellow;
+            }
+            body{
+                background-color:rgb(12, 11, 11); 
+            }
+            
+        </style>
+
+    </head>
+    <body>
+        <a href="index.html"><button style="height:40px;width:150px">Back</button></a><br><br><br>
+        <table>
+            <thead>
+                <th style="color:white;">Create</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="color:white;">Account</td>
+                </tr>
+            </tbody>
+        </table>
+        <form>
+            <label for="YourEmail">Your Email</label><br>
+            <input type="text" id="YourEmail" placeholder="Email"name="Your Email" ><br>
+            <label for="Username">Username</label><br>
+            <input type="text" id="Username"  placeholder="Username"name="username"><br>
+            <label for="pwd">Password</label><br>
+            <input type="password" id="pwd" placeholder="password"name="pwd"><br>
+            <label for="pwd">re-enter password</label><br>
+            <input type="password" id="pwd" placeholder="re-enter password"name="pwd">
+          </form><br><br>
+
+          <center><a href="signin.html"><button class="create_acc">Create account</button></a></center>
+    </body>
+</html>

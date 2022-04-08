@@ -1,0 +1,24 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="171.73" height="170.929" viewBox="0 0 171.73 170.929">
+  <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(22.202 18.929)" fill="#fff" stroke="#0c54ec" stroke-width="3">
+    <ellipse cx="74.499" cy="76" rx="74.499" ry="76" stroke="none"/>
+    <ellipse cx="74.499" cy="76" rx="72.999" ry="74.5" fill="none"/>
+  </g>
+  <path id="Path_2" data-name="Path 2" d="M71.6,0,0,129.3" transform="translate(60.296 30.279)" fill="none" stroke="#0c54ec" stroke-width="3"/>
+  <path id="Path_3" data-name="Path 3" d="M89.3-.232-.3,116.411" transform="matrix(0.407, -0.914, 0.914, 0.407, 25.534, 111.954)" fill="none" stroke="#0c54ec" stroke-width="3"/>
+  <line id="Line_2" data-name="Line 2" y1="3" x2="148.998" transform="translate(22.702 91.429)" fill="none" stroke="#0c54ec" stroke-width="3"/>
+  <g id="Polygon_1" data-name="Polygon 1" transform="translate(0.867 112.826) rotate(-61)" fill="#fff">
+    <path d="M 125.8239517211914 108.8996353149414 L 2.607795715332031 108.8996353149414 L 64.21587371826172 2.9833083152771 L 125.8239517211914 108.8996353149414 Z" stroke="none"/>
+    <path d="M 64.21587371826172 5.966629028320312 L 5.215591430664062 107.3996353149414 L 123.2161560058594 107.3996353149414 L 64.21587371826172 5.966629028320312 M 64.21587371826172 0 L 128.4317474365234 110.3996353149414 L 0 110.3996353149414 L 64.21587371826172 0 Z" stroke="none" fill="#0c54ec"/>
+  </g>
+  <g id="Polygon_2" data-name="Polygon 2" transform="translate(0 114.39) rotate(-61)" fill="#fff">
+    <path d="M 127.6017532348633 109.7548294067383 L 2.615824222564697 109.7548294067383 L 65.10878753662109 2.969784736633301 L 127.6017532348633 109.7548294067383 Z" stroke="none"/>
+    <path d="M 65.10878753662109 5.939559936523438 L 5.231620788574219 108.2548370361328 L 124.9859390258789 108.2548370361328 L 65.10878753662109 5.939559936523438 M 65.10878753662109 -7.62939453125e-06 L 130.2175750732422 111.2548370361328 L -1.52587890625e-05 111.2548370361328 L 65.10878753662109 -7.62939453125e-06 Z" stroke="none" fill="#0c54ec"/>
+  </g>
+  <g id="Polygon_3" data-name="Polygon 3" transform="translate(49.488 101.533) rotate(-61)" fill="#fff">
+    <path d="M 61.54704666137695 53.97837448120117 L 2.599817752838135 53.97837448120117 L 32.07343292236328 2.996982574462891 L 61.54704666137695 53.97837448120117 Z" stroke="none"/>
+    <path d="M 32.07343292236328 5.993961334228516 L 5.199634552001953 52.47837448120117 L 58.94723129272461 52.47837448120117 L 32.07343292236328 5.993961334228516 M 32.07343292236328 -3.814697265625e-06 L 64.14686584472656 55.47837448120117 L 0 55.47837448120117 L 32.07343292236328 -3.814697265625e-06 Z" stroke="none" fill="#0c54ec"/>
+  </g>
+  <line id="Line_3" data-name="Line 3" x2="33" y2="17" transform="translate(32.988 58.429)" fill="none" stroke="#0c54ec" stroke-width="3"/>
+  <line id="Line_4" data-name="Line 4" x1="34" y2="19" transform="translate(124.7 55.429)" fill="none" stroke="#0c54ec" stroke-width="3"/>
+  <line id="Line_5" data-name="Line 5" x1="1" y1="39" transform="translate(96.013 128.429)" fill="none" stroke="#0c54ec" stroke-width="3"/>
+</svg>
